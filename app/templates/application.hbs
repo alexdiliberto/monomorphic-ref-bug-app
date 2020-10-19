@@ -1,5 +1,10 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-<WelcomePage />
-{{!-- Feel free to remove this! --}}
+<strong>controller:application</strong><br>
+this.isOpen={{this.isOpen}}
 
-{{outlet}}
+<hr>
+
+<MyComponent
+  id="my-component"
+  @isOpen={{this.isOpen}}
+  {{on "click" (fn (mut this.isOpen) (not this.isOpen))}}
+/>
