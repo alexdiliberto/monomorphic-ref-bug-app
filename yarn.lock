@@ -5038,9 +5038,9 @@ ember-source-channel-url@^2.0.1:
   dependencies:
     got "^8.0.1"
 
-"ember-source@https://s3.amazonaws.com/builds.emberjs.com/canary/shas/37f8d9fa5d361dd756c4afc1b86d5a4e13cd62a4.tgz":
+"ember-source@https://s3.amazonaws.com/builds.emberjs.com/canary/shas/269d59062c3cbdce847fff6639c08c10375c97b3.tgz":
   version "3.23.0-canary"
-  resolved "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/37f8d9fa5d361dd756c4afc1b86d5a4e13cd62a4.tgz#21adbd0300f3e71a007cd4850c58c8b956ea4732"
+  resolved "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/269d59062c3cbdce847fff6639c08c10375c97b3.tgz#fdb57362f12092790779488d1d157c3df4ead226"
   dependencies:
     "@babel/helper-module-imports" "^7.8.3"
     "@babel/plugin-transform-block-scoping" "^7.8.3"

@@ -40,7 +40,7 @@
     "ember-maybe-import-regenerator": "^0.1.6",
     "ember-qunit": "^4.6.0",
     "ember-resolver": "^7.0.0",
-     "ember-source": "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/37f8d9fa5d361dd756c4afc1b86d5a4e13cd62a4.tgz",
+     "ember-source": "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/269d59062c3cbdce847fff6639c08c10375c97b3.tgz",
     "ember-welcome-page": "^4.0.0",
     "eslint-plugin-ember": "^7.7.1",
     "eslint-plugin-node": "^10.0.0",

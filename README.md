@@ -1,4 +1,5 @@
 # monomorphic-ref-bug-app
 
-to view the bug update revert the latest commit
+the latest commit has the bug
 
+to see the code working, simply update revert the latest commit
